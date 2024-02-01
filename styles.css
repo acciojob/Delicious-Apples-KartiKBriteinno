@@ -1,35 +1,24 @@
 /* your code here */
+.container{
+	justify-content:center;
+	display:flex;
+    height: 37rem;
+    width: 40rem;
+    margin-top: 12vh;
+}
+button{
+	border:none;
+}
+
 .photo-container{
-	
+	height: 30rem;
+	margin-top:3rem;
+	margin-left: -3.5rem;
 }
-
-.photo-main > img{
-	
+.apple{
+	margin-left:-4rem;
 }
-
-.photo-album{
-	
+.product__info{
+    margin-left: 3rem;
+    margin-top: 3rem;
 }
-
-.product__photo{
-	
-}
-
-.photo-album > ul > li > img{
-	
-}
-
-.price{
-	
-}
-
-.variant{
-	
-}
-
-.description{
-	
-}
-
-
-
